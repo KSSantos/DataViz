@@ -1,6 +1,6 @@
 # PowerBI
 
-This space is to share some of the data visualization tools in Power BI from courses that I've done and some dashboards that I try to create and play around in my free time.
+This space is to share some of the data visualization tools in Power BI from courses that I've been doing and some dashboards that I try to create in my free time.
 
 # 1. Finance Dashboard
 
